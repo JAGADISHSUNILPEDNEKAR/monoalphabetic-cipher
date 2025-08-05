@@ -1,0 +1,16 @@
+# Example Substitution Keys for Testing
+
+# Standard QWERTY keyboard layout
+QWERTYUIOPASDFGHJKLZXCVBNM
+
+# Reverse alphabet (A->Z, B->Y, etc.)
+ZYXWVUTSRQPONMLKJIHGFEDCBA
+
+# Caesar cipher shift by 3
+DEFGHIJKLMNOPQRSTUVWXYZABC
+
+# Random permutation
+XPMGTBCDIJKLANOQRSEFUVWHYZ
+
+# Another random permutation
+BCDEFGHIJKLMNOPQRSTUVWXYZA
